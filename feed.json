@@ -4,13 +4,13 @@
   "home_page_url": "https://kichunsung.github.io",
   "feed_url": "https://kichunsung.github.io/feed.json",
   "description": "🚀 My Life History",
-  "icon": "/_app/immutable/assets/avatar.B_Klb3xB.png",
+  "icon": "/app/immutable/assets/avatar.B_Klb3xB.png",
   "favicon": "https://kichunsung.github.io/favicon.png",
   "authors": [
     {
       "name": "GiCheon Seong(Ayaan)",
       "url": "https://github.com/kichunsung",
-      "avatar": "/_app/immutable/assets/avatar.B_Klb3xB.png"
+      "avatar": "/app/immutable/assets/avatar.B_Klb3xB.png"
     }
   ],
   "language": "ko-KR",

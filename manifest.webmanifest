@@ -16,49 +16,49 @@
   "theme_color": "white",
   "icons": [
     {
-      "src": "https://kichunsung.github.io/_app/immutable/assets/avatar.wQtD73Cr.png",
+      "src": "https://kichunsung.github.io/app/immutable/assets/avatar.wQtD73Cr.png",
       "sizes": "48x48",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://kichunsung.github.io/_app/immutable/assets/avatar.wQtD73Cr.png",
+      "src": "https://kichunsung.github.io/app/immutable/assets/avatar.wQtD73Cr.png",
       "sizes": "48x48",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://kichunsung.github.io/_app/immutable/assets/avatar.BySTWFyq.png",
+      "src": "https://kichunsung.github.io/app/immutable/assets/avatar.BySTWFyq.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://kichunsung.github.io/_app/immutable/assets/avatar.BySTWFyq.png",
+      "src": "https://kichunsung.github.io/app/immutable/assets/avatar.BySTWFyq.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://kichunsung.github.io/_app/immutable/assets/avatar.DarFfNRx.png",
+      "src": "https://kichunsung.github.io/app/immutable/assets/avatar.DarFfNRx.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://kichunsung.github.io/_app/immutable/assets/avatar.DarFfNRx.png",
+      "src": "https://kichunsung.github.io/app/immutable/assets/avatar.DarFfNRx.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://kichunsung.github.io/_app/immutable/assets/avatar.BR9uGlDR.png",
+      "src": "https://kichunsung.github.io/app/immutable/assets/avatar.BR9uGlDR.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://kichunsung.github.io/_app/immutable/assets/avatar.BR9uGlDR.png",
+      "src": "https://kichunsung.github.io/app/immutable/assets/avatar.BR9uGlDR.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
